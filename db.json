@@ -1,6 +1,3 @@
-// 20210424000409
-// https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a178817-12cf-46a5-afbb-c2ca57caa2ed/db.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210424%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210424T030407Z&X-Amz-Expires=86400&X-Amz-Signature=a2946679954b8fa343c0de9fa3706881db260850093cbc9b71e66910c8e90d5b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22db.json%22
-
 {
   "episodes": [
     {
@@ -118,6 +115,19 @@
         "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/typescript.m4a",
         "type": "audio/x-m4a",
         "duration": 1772
+      }
+    },
+    {
+      "id": "estrategias-de-autenticacao-jwt-oauth",
+      "title": "FalaDev #21 - Estratégias de autenticação, JWT, OAuth, qual usar?",
+      "members": "Dego Fernandes, Higo Ribeiro e Guilherme Pellizzetti",
+      "published_at": "2020-04-09 20:00:00",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/autenticacao.jpg",
+      "description": "<p>Três programadores conversam sobre estratégia de autenticação.</p><p>Vamos discutir quais aspectos você deve considerar na hora de fazer a sua escolha.</p><p>A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso.</p>",
+      "file": {
+        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/autenticacao.m4a",
+        "type": "audio/x-m4a",
+        "duration": 1463
       }
     }
   ]
